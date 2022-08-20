@@ -1,0 +1,39 @@
+.botones
+{
+    margin-top: 25px;
+    display: flex;
+}
+.botones button
+{
+    display: block;
+    margin-right: 15px;
+    padding-block: 10px;
+    font-weight: bold;
+}
+
+#resultado
+{
+    margin-top: 8px;
+    text-align: center;
+    padding: 8px;
+}
+
+#resultado label
+{
+    font-size: 24px;
+    font-weight: bold;
+    color: aliceblue;
+    background-color: rgb(116, 52, 15);
+    padding: 8px;
+    border-radius: 4px;
+}
+#resultado p 
+{
+    font-size: 28px;
+    font-weight: bold;   
+    margin: 4px;
+    height: auto;
+    text-align: center;
+    padding: 10px;
+  
+}
